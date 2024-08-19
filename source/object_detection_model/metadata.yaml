@@ -1,0 +1,15 @@
+description: Ultralytics ccs-model model trained on C:/Users/USER/Documents/cb/CigaretteButtDetector.v5i.yolov8-1by1/CigaretteButt_data/data.yaml
+author: Ultralytics
+date: '2024-05-17T14:26:54.302692'
+version: 8.2.15
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: cig_butt
+  1: burn_butt
