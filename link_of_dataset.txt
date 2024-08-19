@@ -1,0 +1,6 @@
+- 주행모델 data
+https://drive.google.com/file/d/1GmJQEtTC6WGk2bWYBXQlFddG5KVHrsWA/view?usp=drive_link
+
+
+- 객체감지모델 data
+https://drive.google.com/file/d/1d8yIXZSeVnnbKH3YKbwjcn6DIaDagadG/view
